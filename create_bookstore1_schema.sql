@@ -1,4 +1,3 @@
-CREATE DATABASE `BookstoreDB`;
 USE `BookstoreDB`;
 
 CREATE TABLE `Books` (
